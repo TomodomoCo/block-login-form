@@ -2,6 +2,8 @@
 
 A customizable login form block for Gutenberg.
 
+![login_form_block_screenshot](https://user-images.githubusercontent.com/1231306/43149484-8548f38a-8f35-11e8-808a-ffe348733496.png)
+
 ## Installation
 
 When installed from this repo, you must build the JavaScript files.
